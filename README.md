@@ -13,7 +13,7 @@ This project analyzes web traffic data (events like pageviews and clicks) over a
 1. Clone the repository or download the files.
 
    ```
-   git clone 
+   git clone https://github.com/CodeByHamim/hygwell_WebTrafficInsight.git
    ```
 2. Ensure you have Python 3.x installed.
 3. Install the necessary dependencies by running:
